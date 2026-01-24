@@ -6,6 +6,8 @@
 
 # print(x, y)
 
+# ------------------------------------------------------------------------
+
 # q2. What is the output and explain the reason:
 # a = 5
 # b = "5"
@@ -13,6 +15,8 @@
 # print(type(a) == type(b))
 
 # both will be false, because one is number AND other is string
+
+# ------------------------------------------------------------------------
 
 # q3. Predict the output:
 # x = 10

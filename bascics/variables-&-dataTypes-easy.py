@@ -6,6 +6,7 @@
 
 # print(type(name), type(age), type(is_student))
 
+# ------------------------------------------------------------------------
 
 # q2. What will be the output of the following code and why?
 # x = 10
@@ -19,6 +20,8 @@
 # print(y)
 
 # answer will be 10 because value of y which when was equated to x was saved as 10 in memory, even if we then change value of x, the value of y will be taken from memory reference of python ehich is 10
+
+# ------------------------------------------------------------------------
 
 
 # q3. Identify the data type of each value:
