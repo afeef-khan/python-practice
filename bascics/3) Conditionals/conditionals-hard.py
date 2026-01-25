@@ -4,6 +4,17 @@
 # digit
 # special character
 
+# input = input("Enter a character : ")
+
+# if "A" <= input <= "Z":
+#     print("Uppercase letter")
+# elif "a" <= input <= "z":
+#     print("Lowercase letter")
+# elif "0" <= input <= "9":
+#     print("Digit")
+# else:
+#     print("Special character")
+
 # --------------------------------------------------------------------------------
 
 # q2, Write a program to calculate grade based on marks:
